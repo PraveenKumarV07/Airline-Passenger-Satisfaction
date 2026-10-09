@@ -1,3 +1,4 @@
+
 # ✈️ Airline Passenger Satisfaction Analytics & ML Dashboard
 
 A complete end-to-end Data Analytics and Machine Learning project built on a real-world airline passenger satisfaction dataset. The project features exploratory data analysis, three trained classification models, and a professional interactive Streamlit dashboard with KPI cards, dynamic filters, visualizations, model evaluation, and live passenger satisfaction prediction.
@@ -221,12 +222,14 @@ Use the **sidebar** to navigate between the four pages and apply demographic/fli
 
 ## 👤 Author
 
-**Ram Kumar G** <br>
+**Praveen Kumar V** <br>
 **Airline Satisfaction Analytics Project** <br>
-**LinkedIn:** [Ram Kumar G](https://www.linkedin.com/in/ramkumar-g-245685302?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br>
-**Email:** ramkumar91847@gmail.com  
+**Email:** praveenkumarv016@gmail.com  
   
 
 ---
 
 *Built with ❤️ using Python, Streamlit, Scikit-learn, Matplotlib, and Seaborn*
+
+
+
